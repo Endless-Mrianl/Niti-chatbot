@@ -37,7 +37,7 @@ def main():
             'civil case': {
                 'total': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[1]/div[1]/div/div/div/div[1]/div[1]/span',
                 'civil cases more than 1 year old': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[2]/div[1]/div/div/div/div[1]/div[1]/span[1]',
-                '0 to 1 years': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[5]/div/div[2]/div[6]/div/div[3]/div[2]/table/tbody/tr[2]/td[2]/a',
+                '0 to 1 years': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[1]/div[1]/div/div/div/div[1]/div[1]/span',
                 '1 to 3 years': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[5]/div/div[2]/div[6]/div/div[3]/div[2]/table/tbody/tr[3]/td[2]/a',
                 '3 to 5 years': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[5]/div/div[2]/div[6]/div/div[3]/div[2]/table/tbody/tr[4]/td[2]/a',
                 '5 to 10 years': '/html/body/div[3]/div/div/div/div[1]/div[1]/div/div/div/div/div[5]/div/div[2]/div[6]/div/div[3]/div[2]/table/tbody/tr[5]/td[2]/a',
